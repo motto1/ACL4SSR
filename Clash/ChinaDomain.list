@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,zhenguanyu.biz
 DOMAIN-SUFFIX,zhenguanyu.com
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,tebex.io
+DOMAIN-SUFFIX,2116666.xyz
+
 
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
@@ -47,7 +49,7 @@ DOMAIN-KEYWORD,cloudflare.com
 DOMAIN-KEYWORD,cloud.duckyci.com
 DOMAIN-KEYWORD,api.asmr
 DOMAIN-KEYWORD,spaceship
-DOMAIN-KEYWORD,2116666.xyz
+DOMAIN-KEYWORD,2116666
 
 # 360
 DOMAIN-SUFFIX,360.com
